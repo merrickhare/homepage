@@ -1,16 +1,12 @@
 @import url('https://fonts.googleapis.com/css2?family=Ubuntu&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Smooch+Sans:wght@500&display=swap');
 
 body {
     background-color:#1C5D99;
     color:#FFFF;
-    font-family: 'Ubuntu', sans-serif;
+    font-family: 'Smooch Sans', sans-serif;
 }
-.container {
-    padding:0px;
-    margin:0px auto;
-    width:100%;
 
-}
 header {
     padding-top: 60px;
     text-align:center;
@@ -34,12 +30,37 @@ img {
 
 #ngd {
     color:#639FAB;
+    text-shadow:black 3px 3px;
 }
 
-.quote {
+.certs {
     padding: 50px; 
     background-color:#222222;
     width:100%;
     margin-top :55px;
+    text-align:center;
+}
 
+.experience {
+    text-align:center;
+    padding:50px;
+    background-color:#639FAB;
+}
+
+.videos {
+    text-align:center;
+    padding:50px;
+    background-color:#1C5D99;
+}
+
+.contact {
+    text-align:center;
+    padding:50px;
+    background-color:#639FAB;
+}
+
+footer{
+    text-align:center;
+    padding:50px;
+    background-color:#1C5D99;
 }
