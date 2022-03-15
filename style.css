@@ -10,6 +10,7 @@ body {
 header {
     padding-top: 60px;
     text-align:center;
+    height:100vh;
 }
 header h1 {
     font-size: 200px;
